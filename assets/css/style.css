@@ -1,0 +1,15 @@
+body{
+	background:brown;
+}
+h1{
+	
+	font-family:lucida;
+}
+.jumbotron{
+	background:orange;
+	border-radius:25px;
+	margin-top:10px;
+}
+.btn{
+	background:orange;
+}
